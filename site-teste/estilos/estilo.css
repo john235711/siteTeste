@@ -1,0 +1,41 @@
+html{
+	font-size: 20px;
+	font-family: 'Robot',sans-serif;
+	background-color: white;
+	
+}
+
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #ff9500;
+	padding: 0 20px 20 px 20px;
+	border: 5px solid black;
+	
+}
+p,h1,li{
+	color: white;
+}
+
+h1{
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	color: white;
+	text-shadow: 10px -2px 5px black;
+	
+}
+
+
+p,li{
+	font-size: 18px;
+	line-height: 2;
+	letter-spacing: 2px;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+}
